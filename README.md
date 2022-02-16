@@ -1,7 +1,7 @@
 # Hi, I’m Connor (@ConnorNorthing)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40" />
 
 - 👀 I’m interested in AI, Machine Learning and Cybersecurity
-- 🌱 I’m currently learning Offensive Security Techniques
+- 🌱 I’m currently learning Offensive Security Techniques. I currently have a growing interest in Pen Testing and completing some HackTheBox challenges!
 - 💞️ I have worked with Control Systems, API's, Recursion, Basic Game Development, MS Macros, novice Visual Basic work and Web Development. 
 
 ![Connor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ConnorNorthing&show_icons=true) 
@@ -21,7 +21,7 @@
 ## Languages and Tools
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="60" height="60" /> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="60" height="60" /> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" width="60" height="60" />
 
-<img src="https://cdn.iconscout.com/icon/free/png-64/linux-8-202409.png" width="60" height="60" /> <img src="https://tecadmin.net/tutorial/wp-content/uploads/2017/09/bash-logo-300x245.jpg" width="70" height="60" /> <img src="https://www.nicepng.com/png/detail/352-3529769_html5-course-training-content-details-logo-html-5.png" width="100" height="60" />
+<img src="https://cdn.iconscout.com/icon/free/png-64/linux-8-202409.png" width="60" height="60" /> <img src="https://tecadmin.net/tutorial/wp-content/uploads/2017/09/bash-logo-300x245.jpg" width="90" height="60" /> <img src="https://www.nicepng.com/png/detail/352-3529769_html5-course-training-content-details-logo-html-5.png" width="100" height="60" />
 
 <!---
 ConnorNorthing/ConnorNorthing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
