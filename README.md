@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Connor (@ConnorNorthing)
+👋 Hi, I’m Connor (@ConnorNorthing)
+
 - 👀 I’m interested in AI, Machine Learning and Cybersecurity
 - 🌱 I’m currently learning Offensive Security Techniques
 - 💞️ I have worked with Control Systems, API's, Recursion, Basic Game Development, MS Macros, novice Visual Basic work and Web Development. 
