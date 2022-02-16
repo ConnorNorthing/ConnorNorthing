@@ -3,9 +3,12 @@
 - 👀 I’m interested in AI, Machine Learning and Cybersecurity
 - 🌱 I’m currently learning Offensive Security Techniques. I currently have a growing interest in Pen Testing and completing some HackTheBox challenges!
 - 💞️ I have worked with Control Systems, API's, Recursion, Basic Game Development, MS Macros, novice Visual Basic work and Web Development. 
-
-![Connor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ConnorNorthing&show_icons=true) 
-
+<!---<a href="https://github.com/ConnorNorthing">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnorNorthing&count_private=true" width = "48%" height = 400px/>
+</a> --->
+<a href="https://github.com/ConnorNorthing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ConnorNorthing&count_private=true" width = "48%" height = 400px/>
+</a>
 
 ## Some of my Projects
 
