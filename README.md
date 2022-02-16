@@ -10,7 +10,8 @@
 ## Some of my Projects
 
 <a href="https://github.com/ConnorNorthing/EPR400-Control-Code">
-<img align="center" src="https://camo.githubusercontent.com/a49c551083b11ccd7707e5e7ff7b96c24231251d5006b3278df1a1302d16710d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d4a4846313031267265706f3d4469676974616c5f46696c7465725f53796e746865736973" width="48%" height="200px/" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=ConnorNorthing&amp;repo=EPR400-Control-Code" style="max-width: 100%;"> </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ConnorNorthing&repo=EPR400-Control-Code" width = "48%" height = 200px/>
+</a>
 
 
 ## Languages and Tools
