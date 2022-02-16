@@ -13,6 +13,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ConnorNorthing&repo=EPR400-Control-Code" width = "48%" height = 200px/>
 </a>
 
+<a href="https://github.com/ConnorNorthing/Respiratory-Sensor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ConnorNorthing&repo=Respiratory-Sensor" width = "48%" height = 200px/>
+</a>
+
 
 ## Languages and Tools
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="60" height="60" /> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="60" height="60" /> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" width="60" height="60" />
