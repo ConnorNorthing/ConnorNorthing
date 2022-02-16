@@ -24,6 +24,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ConnorNorthing&repo=Motor-Control-For-Line-Following-Robot" width = "48%" height = 200px/>
 </a>
 
+<a href="https://github.com/ConnorNorthing/Fourier-Series-Computation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ConnorNorthing&repo=Fourier-Series-Computation" width = "48%" height = 200px/>
+</a>
+
 
 ## Languages and Tools
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="60" height="60" /> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="60" height="60" /> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" width="60" height="60" />
